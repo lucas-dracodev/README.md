@@ -1,6 +1,6 @@
 <div>
   
-  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
+  <h1 align="center">Hello! How are you? I'm <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
   
   - 🔭 Passionate about technology
   - 🌱 Software Engineering Student 1/8 at Descomplica Faculdade Digital
