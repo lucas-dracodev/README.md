@@ -1,9 +1,9 @@
 <div>
   
-  <h1 align="center">Hello! How are you? I'm <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
+  <h1 align="center">Olá, Eu sou o <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
   
-  - 🔭 Passionate about technology
-  - 🌱 Software Engineering Student 1/8 at Descomplica Faculdade Digital
+  - 🔭 Apaixonado por Tecnologia
+  - 🌱 Estudante de Engenharia de Software 2/8 na Descomplica Faculdade Digital
 
 <div align="center">
   <a href="https://github.com/lcssdedeus">
@@ -15,10 +15,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="python" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
