@@ -1,6 +1,6 @@
 <div>
   
-  <h1 align="center">Olá, Eu sou o <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
+  <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
   
   - 🔭 Apaixonado por Tecnologia
   - 🌱 Estudante de Engenharia de Software 2/8 na Descomplica Faculdade Digital
