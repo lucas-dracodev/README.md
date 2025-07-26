@@ -1,10 +1,29 @@
-<div>
+<h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/lucas-s-de-deus/" target="_blank">Lucas de Deus</a></h1>
   
-  <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/lcssdedeus/" target="_blank">Lucas de Deus 😃️</a></h1>
-  
-  - 🔭 Apaixonado por TI, Games, Sci-fi e IA
-  - 🪴 Bacharelando em Ciência da Computação 3/8 na Descomplica Faculdade Digital
-  - 🔧 Graduando em Análise e Desenvolvimento de Sistemas 1/5 na UESB (Universidade Estadual do Sudoeste da Bahia)
+<p align="center">
+  Desenvolvedor | Estudante de Ciência da Computação | Pesquisador em Psicanálise, Cognição e IA <br>
+  Explorando a interseção entre seres humanos, linguagem e tecnologia.
+</p>
+
+---
+
+🎯 **Atualmente:**
+
+- 📚 Bacharelando em Ciência da Computação – Descomplica Uniamérica (Centro Universitário União das Américas)  
+- 🖥️ Graduando em Análise e Desenvolvimento de Sistemas – UESB (Universidade Estadual do Sudoeste da Bahia)  
+- 🧠 Pesquisador independente em Psicanálise, Cognição, Linguagem e Ética Aplicada à Inteligência Artificial  
+
+---
+
+💡 **Interesses em destaque:**
+
+- ⚙️ Desenvolvimento Web e Computação Aplicada
+- ☕ Entusiasta na stack Java (loading...)  
+- 🧩 Interdisciplinaridade entre Psicanálise, Filosofia, Ciência da Mente e Computação  
+- 🤖 Inteligência Artificial e Psicologia Computacional 
+- 📊 Dados, Automação e Interfaces Inteligentes  
+
+---
 
 <div align="center">
   <a href="https://github.com/lcssdedeus">
