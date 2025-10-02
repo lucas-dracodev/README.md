@@ -1,8 +1,8 @@
-<h1 align="center">Olá, sou Lucas de Deus 👨‍💻 | Desenvolvedor e Pesquisador (Dr@c0)</a></h1>
+<h1 align="center">Olá, sou Lucas S. de Deus (Dr@c0) 👨‍💻 | Desenvolvedor e Pesquisador</h1>
   
 <p align="center">
-  💻 Desenvolvedor e estudante de Ciência da Computação e ADS, com interesse em interseções entre linguagem, 
-  tecnologia e seres humanos. Pesquisador independente em psicanálise, ética aplicada e inteligência artificial.
+  🧠 Interesse nas interseções entre linguagem, tecnologia e seres humanos.
+Pesquisador independente em psicanálise, ética aplicada e inteligência artificial.
 </p>
 
 ---
@@ -14,15 +14,13 @@
 
 ---
 
-💡 **Interesses em destaque:**
-
----
-
 <div align="center">
   <a href="https://github.com/lucas-dracodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-dracodev&show_icons=true&theme=gruvbox&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-dracodev&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+
+💡 **Interesses em destaque:**
 
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
