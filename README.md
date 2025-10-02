@@ -16,17 +16,6 @@
 
 💡 **Interesses em destaque:**
 
-- 🚀 Desenvolvimento Web & Computação Aplicada
-- 📜 JavaScript (o primeiro contato com a TI a gente nunca esquece)
--  **C** Language (Graças a Universidade 🤘)
-- ☕ Java (Buscando os 20% que resolve os 80% dos problemas)
-- 🐍 Python (Idem ao item anterior, fugi até entrar em CyberSec)
-- ☁️ AWS (em andamento à certificação...)
-- 🗄️ SQL e noSQL (SQLite, MySQL e MongoDB) 
-- 🧠 Interdisciplinaridade entre Psicanálise e Filosofia
-- 🔍 Metapsicologia & Pensamento Computacional 
-- 🤖 Inteligência Artificial & Psicologia Cognitiva Computacional   
-
 ---
 
 <div align="center">
